@@ -1,0 +1,25 @@
+ .button1
+{
+  background-color:#00FFE9;
+  color:black;
+}
+
+ .button1:hover
+{
+  background-color:##00897A;
+  color:black;
+}
+
+
+ .button2
+{
+  background-color:#ffffff;
+  color:#012f7b;
+}
+
+  .button3
+{
+  background-color:#ffffff;
+  color:#b51a00;
+}
+
