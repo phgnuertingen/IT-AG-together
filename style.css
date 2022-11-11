@@ -1,13 +1,22 @@
- .button1
+ button
 {
   background-color:#00FFE9;
-  color:black;
+  
 }
 
- .button1:hover
+ button:hover
 {
-  background-color:##00897A;
-  color:black;
+  background-color:#1bdac4;
+  transform: scale(1.1) rotate(355deg);
 }
 
+  button2
+{
+  background-color:#FFAA00;
+}
+
+  .background1
+{
+  background-image: url('background1.jpg');
+}
 
